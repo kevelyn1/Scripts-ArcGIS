@@ -1,2 +1,2 @@
 # Scripts-ArcGIS
-Scripts for automating geoprocessing in ArcGIS
+Collection of scripts for automating geoprocessing in ArcGIS
